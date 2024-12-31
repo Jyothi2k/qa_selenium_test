@@ -13,7 +13,3 @@ Before running the test, ensure that the following Python packages are installed
 - PyCharm 2022.2.2
   
 
-You can install the required packages using the following command:
-
-```bash
-pip install -r requirements.txt
